@@ -32,7 +32,7 @@ an EA in place.
 Terminology
 -----------
 
--   **Access Management**: the use of identity information to provide
+-   **Access Management**: the use of identity information and entitlements to provide
     access control to protected resources such as computer systems,
     databases, or physical spaces.
 
